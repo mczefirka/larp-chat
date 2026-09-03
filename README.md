@@ -9,11 +9,25 @@
 ## ✨ Features
 
 - **Email/password auth** (Supabase)
-- **PDF ingestion pipeline** — parse → chunk → embed (Gemini `text-embedding-004`) → store in pgvector
-- **RAG chat with streaming** — grounded answers via `gemini-1.5-flash`, with **source citations** (filename · page)
+- **PDF ingestion pipeline** — parse → chunk → embed (Gemini `gemini-embedding-001`) → store in pgvector
+- **RAG chat with streaming** — grounded answers via `gemini-2.5-flash`, with **source citations** (filename · page)
 - **Embeddable widget** — a public `/embed/{id}` page + copy-paste `<iframe>` snippet
 - **Pricing & gating** — Free / Pro / Enterprise showcased on the landing page; one **real enforced limit**: 3 documents on Free. Billing is mocked.
 - **Endpoint protection** — in-memory rate limiting on the public chat API
+
+## 🖼️ Screenshots
+
+### Landing page
+
+![LarpChat landing page](<docs/screenshots/LarpChat — Turn your docs into a chatbot 1.png>)
+
+### Authentication
+
+![LarpChat authentication](<docs/screenshots/LarpChat — Turn your docs into a chatbot 2.png>)
+
+### Dashboard
+
+![LarpChat dashboard](<docs/screenshots/LarpChat — Turn your docs into a chatbot 3.png>)
 
 ## 🧱 Tech stack
 
