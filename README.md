@@ -17,17 +17,13 @@
 
 ## 🖼️ Screenshots
 
-### Landing page
-
-![LarpChat landing page](<docs/screenshots/LarpChat — Turn your docs into a chatbot 1.png>)
-
-### Authentication
-
-![LarpChat authentication](<docs/screenshots/LarpChat — Turn your docs into a chatbot 2.png>)
-
-### Dashboard
-
-![LarpChat dashboard](<docs/screenshots/LarpChat — Turn your docs into a chatbot 3.png>)
+<table>
+  <tr>
+    <td><img src="docs/screenshots/LarpChat — Turn your docs into a chatbot 1.png" width="280" alt="LarpChat landing page"></td>
+    <td><img src="docs/screenshots/LarpChat — Turn your docs into a chatbot 2.png" width="280" alt="LarpChat authentication"></td>
+    <td><img src="docs/screenshots/LarpChat — Turn your docs into a chatbot 3.png" width="280" alt="LarpChat dashboard"></td>
+  </tr>
+</table>
 
 ## 🧱 Tech stack
 
