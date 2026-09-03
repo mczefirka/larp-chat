@@ -19,7 +19,9 @@
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout: fixed;">
   <tr>
-    <td width="50%" style="padding: 0;"><img src="docs/screenshots/LarpChat — Turn your docs into a chatbot 1.png" width="100%" alt="LarpChat landing page" style="display: block;"></td>
+    <td colspan="2" align="center" style="padding: 0;"><img src="docs/screenshots/LarpChat — Turn your docs into a chatbot 1.png" width="75%" alt="LarpChat landing page" style="display: block; margin: 0 auto;"></td>
+  </tr>
+  <tr>
     <td width="50%" style="padding: 0;"><img src="docs/screenshots/LarpChat — Turn your docs into a chatbot 2.png" width="100%" alt="LarpChat authentication" style="display: block;"></td>
     <td width="50%" style="padding: 0;"><img src="docs/screenshots/LarpChat — Turn your docs into a chatbot 3.png" width="100%" alt="LarpChat dashboard" style="display: block;"></td>
   </tr>
